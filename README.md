@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kadam</h1>
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/04/31/ff0431d11ff6b73e937280252f58f371.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1373613/screenshots/5551642/___-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-f5&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-f5" /> </p>
 
