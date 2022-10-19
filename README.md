@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-f5&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-f5" /> </p>
 
-- 🌱 I’m currently learning **SQL, Python, Linux**
-
 - 📫 How to reach me **ashutoshkadama5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
